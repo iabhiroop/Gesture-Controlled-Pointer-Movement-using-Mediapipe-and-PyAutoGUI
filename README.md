@@ -3,6 +3,7 @@
 Mediapipe-Pointer-Movement is a Python script that uses the Mediapipe library to enable precise and intuitive pointer movement. 
 By leveraging hand tracking technology, the script allows you to move your pointer simply by moving your hand in the air.
 It makes it easy to make a pointer that helps you trace the screen for presentations and similar requirements without physically touching the mouse or uracing a touochpad.
+![img3](https://user-images.githubusercontent.com/100859103/221419791-602c85ac-4b64-4b54-ab89-d9d37a9f17be.png)
 
 
 ### Requirements
